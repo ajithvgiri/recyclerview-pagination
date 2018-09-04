@@ -2,9 +2,9 @@
 
 Android library for implement pagination (Infinite Scrolling) is used to break down a list of content into equal smaller pieces and load one at time in **RecyclerView**
 
-##Setup
+## Setup
 
-###1.Provide the gradle dependency
+### 1.Provide the gradle dependency
 Add it in your root build.gradle at the end of repositories:
 ```
 repositories {
@@ -20,7 +20,7 @@ dependencies {
 }
 ```
 
-###2. Implementation of InfinityScroll in your project
+### 2. Implementation of InfinityScroll in your project
 
 Initialise these variables as global which is used for pagination
 ```   
